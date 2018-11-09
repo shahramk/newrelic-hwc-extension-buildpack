@@ -48,12 +48,12 @@ include_files:
   - Procfile
   - manifest.yml
   - newrelic.config
-  - CHANGELOG
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE
-  - LICENSE
-  - NOTICE
-  - PULL_REQUEST_TEMPLATE
+  # - CHANGELOG
+  # - CONTRIBUTING.md
+  # - ISSUE_TEMPLATE
+  # - LICENSE
+  # - NOTICE
+  # - PULL_REQUEST_TEMPLATE
 pre_package: scripts/build.sh
 # ========================================
 
